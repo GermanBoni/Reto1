@@ -138,4 +138,10 @@ function cuadrado (n){
 
 cuadrado(5)
 
+function suma (n, m, l){
+        console.log(n+m+l)
+}
+
+suma (5, 2, 3)
+
 
