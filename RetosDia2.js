@@ -132,10 +132,6 @@
 
 // FUNCION CUADRADO
 
-function cuadrado (n){
-        console.log(n**2)
-}
 
-cuadrado(5)
 
 
